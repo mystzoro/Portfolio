@@ -50,7 +50,6 @@ function MagneticButton({ children, className, onClick, href }: {
       onMouseLeave={handleMouseLeave}
       className="inline-block"
     >
-      {/* @ts-expect-error dynamic tag */}
       <Tag className={className} {...extraProps}>
         {children}
       </Tag>
