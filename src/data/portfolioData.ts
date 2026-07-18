@@ -119,7 +119,7 @@ export const portfolioData = {
       description: "Machine learning model to identify plant diseases from leaf images using image classification techniques.",
       extendedDescription: "Developed a machine learning model to identify plant diseases from leaf images. Performed image preprocessing, feature extraction, and dataset augmentation using OpenCV and Python. Trained and evaluated classification models in Google Colab to improve disease detection accuracy. Demonstrated the potential of AI-driven solutions for early disease diagnosis in agriculture.",
       tech: ["Python", "TensorFlow", "OpenCV", "Google Colab", "Machine Learning"],
-      github: "https://github.com/mystzoro",
+      github: "https://github.com/mystzoro/Plant_Disease-Detector",
       highlights: ["Image preprocessing & feature extraction", "Dataset augmentation with OpenCV", "AI-driven early disease diagnosis in agriculture"]
     },
     {
@@ -137,7 +137,7 @@ export const portfolioData = {
       description: "Multi-agent workflow for stock market analysis and financial information retrieval.",
       extendedDescription: "Built a multi-agent workflow for stock market analysis and financial information retrieval. Designed agent routing and state management using LangGraph architecture. Automated report generation and data-driven insights from multiple financial data sources.",
       tech: ["Python", "LangGraph", "LangChain", "Matplotlib", "FastAPI"],
-      github: "https://github.com/mystzoro",
+      github: "https://github.com/mystzoro/Trading_BOT",
       highlights: ["Agent routing & state management with LangGraph", "Automated report generation", "Data-driven insights from multiple financial sources"]
     },
     {
@@ -155,7 +155,7 @@ export const portfolioData = {
       description: "Time-series predictive algorithm projecting sales demand dynamically.",
       extendedDescription: "An enterprise intelligence tool built on Auto-ARIMA and Prophet architectures. By evaluating multi-year historical logs, it projects seasonal demand, stocking requirements, and potential stockout events.",
       tech: ["Python", "Pandas", "NumPy", "Matplotlib", "EDA"],
-      github: "https://github.com/mystzoro",
+      github: "https://github.com/mystzoro/Sales_Forecasting-System",
       highlights: ["91% forecasting accuracy on seasonal demand spikes", "Dynamic pricing recommendation engine", "Interactive inventory telemetry panel"]
     },
     {
@@ -164,7 +164,7 @@ export const portfolioData = {
       description: "Visual workspace designer generating structured multi-agent state machines.",
       extendedDescription: "An abstract developer dashboard that outputs LangGraph-compatible python scripts. Users construct computational state machines, node handlers, and edge conditions visually to generate agents.",
       tech: ["React", "Next.js", "LangGraph", "Tailwind CSS", "TypeScript"],
-      github: "https://github.com/mystzoro",
+      github: "https://github.com/mystzoro/langGraph-assessment",
       highlights: ["Drag-and-drop state canvas interface", "Real-time Python code generator preview", "Preconfigured safety and logging node templates"]
     }
   ] as ProjectDetail[],
