@@ -124,7 +124,7 @@ export default function CodingDesk() {
         response = [
           "Connect directly at:",
           "  Email:    priyanshuchand101@gmail.com",
-          "  GitHub:   https://github.com/priyanshu-chand",
+          "  GitHub:   https://github.com/mystzoro",
           "  LinkedIn: https://linkedin.com/in/priyanshu-chand-283163271"
         ];
         break;

@@ -105,7 +105,7 @@ export default function GitHubSection() {
           </div>
           
           <a
-            href="https://github.com/priyanshu-chand"
+            href="https://github.com/mystzoro"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-white/10 bg-white/5 text-xs font-semibold uppercase tracking-wider text-white hover:bg-white/10 hover:border-white/20 transition-all duration-300 interactive-hover"

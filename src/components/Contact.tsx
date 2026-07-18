@@ -117,7 +117,7 @@ export default function Contact() {
   const socialLinks = [
     { name: "Email", val: "priyanshuchand101@gmail.com", href: "mailto:priyanshuchand101@gmail.com", icon: <Mail className="w-4 h-4" /> },
     { name: "LinkedIn", val: "linkedin.com/in/priyanshu-chand-283163271", href: "https://linkedin.com/in/priyanshu-chand-283163271", icon: <LinkedinIcon className="w-4 h-4" /> },
-    { name: "GitHub", val: "github.com/priyanshu-chand", href: "https://github.com/priyanshu-chand", icon: <GithubIcon className="w-4 h-4" /> },
+    { name: "GitHub", val: "github.com/mystzoro", href: "https://github.com/mystzoro", icon: <GithubIcon className="w-4 h-4" /> },
     { name: "Resume", val: "View Resume", href: "/resume.pdf", icon: <FileText className="w-4 h-4" /> }
   ];
 
